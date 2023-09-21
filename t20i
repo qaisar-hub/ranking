@@ -1,0 +1,292 @@
+{
+  "category": {
+    "teams": [
+      {
+        "rank": 1,
+        "team": "India",
+        "matches": 29,
+        "points": 3434,
+        "rating": 118
+      },
+      {
+        "rank": 2,
+        "team": "Australia",
+        "matches": 30,
+        "points": 3534,
+        "rating": 118
+      },
+      {
+        "rank": 3,
+        "team": "England",
+        "matches": 43,
+        "points": 4941,
+        "rating": 115
+      },
+      {
+        "rank": 4,
+        "team": "South Africa",
+        "matches": 21,
+        "points": 2182,
+        "rating": 104
+      },
+      {
+        "rank": 5,
+        "team": "New Zealand",
+        "matches": 23,
+        "points": 2291,
+        "rating": 100
+      },
+      {
+        "rank": 6,
+        "team": "Pakistan",
+        "matches": 25,
+        "points": 2304,
+        "rating": 92
+      },
+      {
+        "rank": 7,
+        "team": "Sri Lanka",
+        "matches": 27,
+        "points": 2123,
+        "rating": 79
+      },
+      {
+        "rank": 8,
+        "team": "West Indies",
+        "matches": 28,
+        "points": 2154,
+        "rating": 77
+      },
+      {
+        "rank": 9,
+        "team": "Bangladesh",
+        "matches": 19,
+        "points": 873,
+        "rating": 46
+      },
+      {
+        "rank": 10,
+        "team": "Zimbabwe",
+        "matches": 7,
+        "points": 223,
+        "rating": 32
+      }
+    ],
+    "batsman": [
+      {
+        "rank": 1,
+        "player": "Kane Williamson",
+        "team": "New Zealand",
+        "rating": 883,
+        "careerBestRating": "919 v Pakistan, 07/01/2021"
+      },
+      {
+        "rank": 2,
+        "player": "Joe Root",
+        "team": "England",
+        "rating": 859,
+        "careerBestRating": "923 v India, 05/07/2022"
+      },
+      {
+        "rank": 3,
+        "player": "Steven Smith",
+        "team": "Australia",
+        "rating": 842,
+        "careerBestRating": "947 v England, 08/01/2018"
+      },
+      {
+        "rank": 4,
+        "player": "Babar Azam",
+        "team": "Pakistan",
+        "rating": 829,
+        "careerBestRating": "882 v New Zealand, 30/12/2022"
+      },
+      {
+        "rank": 5,
+        "player": "Marnus Labuschagne",
+        "team": "Australia",
+        "rating": 826,
+        "careerBestRating": "937 v West Indies, 12/12/2022"
+      },
+      {
+        "rank": 6,
+        "player": "Travis Head",
+        "team": "Australia",
+        "rating": 818,
+        "careerBestRating": "884 v India, 11/06/2023"
+      },
+      {
+        "rank": 7,
+        "player": "Usman Khawaja",
+        "team": "Australia",
+        "rating": 796,
+        "careerBestRating": "847 v England, 02/07/2023"
+      },
+      {
+        "rank": 8,
+        "player": "Daryl Mitchell",
+        "team": "New Zealand",
+        "rating": 792,
+        "careerBestRating": "800 v Sri Lanka, 13/03/2023"
+      },
+      {
+        "rank": 9,
+        "player": "Harry Brook",
+        "team": "England",
+        "rating": 773,
+        "careerBestRating": "773 v Australia, 31/07/2023"
+      },
+      {
+        "rank": 10,
+        "player": "Rohit Sharma",
+        "team": "India",
+        "rating": 759,
+        "careerBestRating": "813 v England, 06/09/2021"
+      }
+    ],
+    "bowling": [
+      {
+        "rank": 1,
+        "player": "Ravichandran Ashwin",
+        "team": "India",
+        "rating": 879,
+        "careerBestRating": "904 v England, 12/12/2016"
+      },
+      {
+        "rank": 2,
+        "player": "Kagiso Rabada",
+        "team": "South Africa",
+        "rating": 825,
+        "careerBestRating": "902 v Australia, 12/03/2018"
+      },
+      {
+        "rank": 3,
+        "player": "Ravindra Jadeja",
+        "team": "India",
+        "rating": 782,
+        "careerBestRating": "899 v Australia, 20/03/2017"
+      },
+      {
+        "rank": 4,
+        "player": "Stuart Broad",
+        "team": "England",
+        "rating": 776,
+        "careerBestRating": "880 v South Africa, 18/01/2016"
+      },
+      {
+        "rank": 5,
+        "player": "Pat Cummins",
+        "team": "Australia",
+        "rating": 775,
+        "careerBestRating": "914 v England, 18/08/2019"
+      },
+      {
+        "rank": 6,
+        "player": "Shaheen Afridi",
+        "team": "Pakistan",
+        "rating": 762,
+        "careerBestRating": "836 v Sri Lanka, 20/07/2022"
+      },
+      {
+        "rank": 7,
+        "player": "Ollie Robinson",
+        "team": "England",
+        "rating": 762,
+        "careerBestRating": "820 v New Zealand, 20/02/2023"
+      },
+      {
+        "rank": 8,
+        "player": "James Anderson",
+        "team": "England",
+        "rating": 761,
+        "careerBestRating": "903 v India, 13/08/2018"
+      },
+      {
+        "rank": 9,
+        "player": "Nathan Lyon",
+        "team": "Australia",
+        "rating": 760,
+        "careerBestRating": "799 v England, 20/06/2023"
+      },
+      {
+        "rank": 10,
+        "player": "Jasprit Bumrah",
+        "team": "India",
+        "rating": 756,
+        "careerBestRating": "835 v West Indies, 02/09/2019"
+      }
+    ],
+    "allRounder": [
+      {
+        "rank": 1,
+        "player": "Ravindra Jadeja",
+        "team": "India",
+        "rating": 455,
+        "careerBestRating": "460 v Australia, 21/02/2023"
+      },
+      {
+        "rank": 2,
+        "player": "Ravichandran Ashwin",
+        "team": "India",
+        "rating": 370,
+        "careerBestRating": "492 v England, 29/11/2016"
+      },
+      {
+        "rank": 3,
+        "player": "Shakib Al Hasan",
+        "team": "Bangladesh",
+        "rating": 332,
+        "careerBestRating": "489 v Australia, 30/08/2017"
+      },
+      {
+        "rank": 4,
+        "player": "Ben Stokes",
+        "team": "England",
+        "rating": 307,
+        "careerBestRating": "497 v West Indies, 20/07/2020"
+      },
+      {
+        "rank": 5,
+        "player": "Axar Patel",
+        "team": "India",
+        "rating": 298,
+        "careerBestRating": "316 v Australia, 13/03/2023"
+      },
+      {
+        "rank": 6,
+        "player": "Joe Root",
+        "team": "England",
+        "rating": 286,
+        "careerBestRating": "286 v Australia, 31/07/2023"
+      },
+      {
+        "rank": 7,
+        "player": "Jason Holder",
+        "team": "West Indies",
+        "rating": 280,
+        "careerBestRating": "485 v England, 12/07/2020"
+      },
+      {
+        "rank": 8,
+        "player": "Mitchell Starc",
+        "team": "Australia",
+        "rating": 241,
+        "careerBestRating": "346 v India, 25/02/2017"
+      },
+      {
+        "rank": 9,
+        "player": "Kyle Mayers",
+        "team": "West Indies",
+        "rating": 240,
+        "careerBestRating": "258 v Bangladesh, 28/06/2022"
+      },
+      {
+        "rank": 10,
+        "player": "Chris Woakes",
+        "team": "England",
+        "rating": 229,
+        "careerBestRating": "273 v Pakistan, 08/08/2020"
+      }
+    ]
+  }
+}
