@@ -1,5 +1,5 @@
 {
-  "Test": {
+  "Ranking": {
     "Teams": [
       {
         "Rank": 1,
@@ -188,7 +188,7 @@
         "Career Best Rating": "836 v Sri Lanka, 20/07/2022"
       },
       {
-        "Rank": 6,
+        "Rank": 7,
         "Player": "Ollie Robinson",
         "Team": "England",
         "Rating": 762,
@@ -206,3 +206,87 @@
         "Player": "Nathan Lyon",
         "Team": "Australia",
         "Rating": 760,
+        "Career Best Rating": "799 v England, 20/06/2023"
+      },
+      {
+        "Rank": 10,
+        "Player": "Jasprit Bumrah",
+        "Team": "India",
+        "Rating": 756,
+        "Career Best Rating": "835 v West Indies, 02/09/2019"
+      }
+    ],
+    "AllRounder": [
+      {
+        "Rank": 1,
+        "Player": "Ravindra Jadeja",
+        "Team": "India",
+        "Rating": 455,
+        "Career Best Rating": "460 v Australia, 21/02/2023"
+      },
+      {
+        "Rank": 2,
+        "Player": "Ravichandran Ashwin",
+        "Team": "India",
+        "Rating": 370,
+        "Career Best Rating": "492 v England, 29/11/2016"
+      },
+      {
+        "Rank": 3,
+        "Player": "Shakib Al Hasan",
+        "Team": "Bangladesh",
+        "Rating": 332,
+        "Career Best Rating": "489 v Australia, 30/08/2017"
+      },
+      {
+        "Rank": 4,
+        "Player": "Ben Stokes",
+        "Team": "England",
+        "Rating": 307,
+        "Career Best Rating": "497 v West Indies, 20/07/2020"
+      },
+      {
+        "Rank": 5,
+        "Player": "Axar Patel",
+        "Team": "India",
+        "Rating": 298,
+        "Career Best Rating": "316 v Australia, 13/03/2023"
+      },
+      {
+        "Rank": 6,
+        "Player": "Joe Root",
+        "Team": "England",
+        "Rating": 286,
+        "Career Best Rating": "286 v Australia, 31/07/2023"
+      },
+      {
+        "Rank": 7,
+        "Player": "Jason Holder",
+        "Team": "West Indies",
+        "Rating": 280,
+        "Career Best Rating": "485 v England, 12/07/2020"
+      },
+      {
+        "Rank": 8,
+        "Player": "Mitchell Starc",
+        "Team": "Australia",
+        "Rating": 241,
+        "Career Best Rating": "346 v India, 25/02/2017"
+      },
+      {
+        "Rank": 9,
+        "Player": "Kyle Mayers",
+        "Team": "West Indies",
+        "Rating": 240,
+        "Career Best Rating": "258 v Bangladesh, 28/06/2022"
+      },
+      {
+        "Rank": 10,
+        "Player": "Chris Woakes",
+        "Team": "England",
+        "Rating": 229,
+        "Career Best Rating": "273 v Pakistan, 08/08/2020"
+      }
+    ]
+  }
+}
